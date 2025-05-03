@@ -35,13 +35,13 @@ This repository contains my solution for the Home Credit Default Risk prediction
 
 There was only a small improvement after tuning and adding new features.
 
-## 💡 Insights
+## Insights
 
 - The dataset was challenging, with many weak features.
 - CatBoost already captures feature interactions well.
 - Better domain-specific features could help further.
 
-## 📝 Final Comments
+## Final Comments
 
 This project included the full ML process:
 - Outlier detection
